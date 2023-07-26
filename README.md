@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AnggaEldi
 - 👀 I’m interested in nodejs, typescript and angular
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning to become Tech Lead
+- 📫 mail.anggaep@gmail.com
 
 <!---
 AnggaEldi/AnggaEldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
